@@ -1,0 +1,32 @@
+Date,Client,Contact,Department,State,Payment,Revenue,Profit,Profit Margin
+2023-05-30,"Amazon.Com, Inc. ",Bill Smith,Cloud Tech,Texas,Transfer,4500.00,598.00,0.13
+2023-05-30,"Tesla, Inc. ",Ken Singh,Strategy,New York,PayPal,3800.00,1045.00,0.28
+2023-05-30,"Netflix, Inc. ",Harley Fritz,Strategy,New York,,3712.50,1009.00,0.27
+2023-05-30,The Procter & Gamble Company ,Nyla Novak,Operations,Florida,,0.00,779.00,0.00
+2023-05-30,"The Goldman Sachs Group, Inc. ",David Rasmussen,Operations,Florida,Check,5000.00,684.00,0.14
+2023-05-31,Jpmorgan Chase & Co. ,Ivan Hiney,Cloud Tech,Texas,Transfer,6100.00,544.00,0.09
+2023-05-31,Morgan Stanley ,Jonha Ma,Cloud Tech,Texas,Transfer,4625.00,670.00,0.14
+2023-05-31,Citigroup Inc. ,Jordan Boone,Cloud Tech,Texas,Transfer,3800.00,2045.00,0.54
+2023-05-31,Bank Of America Corporation ,Kylee Townsend,Cloud Tech,Texas,Card,3600.00,1564.00,0.43
+2023-05-31,Walmart Inc. ,Nora Rollins,Cloud Tech,Texas,Check,5100.00,1220.00,0.24
+2023-05-31,Target Corporation ,Brendan Wallace,Cloud Tech,Texas,Check,4750.00,1435.00,0.30
+2023-05-31,Costco Wholesale Corporation ,Conor Wise,Operations,Florida,Transfer,6000.00,998.00,0.17
+2023-05-31,Mcdonald'S Corporation ,Steven Michael,Big Data,California,Check,4500.00,780.00,0.17
+2023-06-01,Exxon Mobil Corporation ,Lucia Mckay,Big Data,California,Card,0.00,1044.00,0.00
+2023-06-01,Verizon Communications Inc. ,Jose Roach,Big Data,California,Transfer,3712.50,1222.00,0.33
+2023-06-01,"The Home Depot, Inc. ",Franklin Wrigt,Big Data,California,Transfer,4950.00,1065.00,0.22
+2023-06-01,"Cisco Systems, Inc. ",Alia Thornton,Operations,Florida,Transfer,4750.00,810.00,0.17
+2023-06-01,Chevron Corporation ,Denzel Flores,Operations,Florida,Transfer,7320.00,933.00,0.13
+2023-05-31,Costco Wholesale Corporation ,Conor Wise,Operations,Florida,Transfer,6000.00,998.00,0.17
+2023-05-31,Mcdonald'S Corporation ,Steven Michael,Big Data,California,Check,4500.00,780.00,0.17
+2023-06-01,At&T Inc. ,Bruno Cordova,Big Data,California,Transfer,5087.50,655.00,0.13
+2023-06-01,Intel Corporation ,Jaylynn Napp,Big Data,California,Transfer,4500.00,722.00,0.16
+2023-06-01,General Motors Company ,Bruce Rich,Big Data,California,Card,4250.00,901.00,0.21
+2023-06-02,Microsoft Corporation ,Arturo Moore,Big Data,California,PayPal,5250.00,1349.00,0.26
+2023-06-02,Comcast Corporation ,Bryce Carpenter,Strategy,New York,PayPal,6500.00,1288.00,0.20
+2023-06-02,Dell Technologies Inc. ,Jaidyn Andersen,Strategy,New York,PayPal,7500.00,1664.00,0.22
+2023-06-02,Johnson & Johnson ,Mark Walm,Strategy,New York,Transfer,5500.00,1320.00,0.24
+2023-06-02,Fedex Corporation ,Harry Lee,Strategy,New York,Transfer,4625.00,1001.00,0.22
+2023-06-02,General Electric Company ,Josh Johnson,Strategy,New York,Transfer,4500.00,960.00,0.21
+2023-06-02,Lockheed Martin Corporation ,Mik Naam,Strategy,New York,Card,5400.00,540.00,0.10
+2023-05-30,"The Goldman Sachs Group, Inc. ",David Rasmussen,Operations,Florida,Check,5000.00,684.00,0.14
